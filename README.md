@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript,DevOps**
 
-- 💬 Ask me about **react, Python, JavaScript**
+- 💬 Ask me about **react, JavaScript**
 
 - 📫 How to reach me **ichbks@gmail.com**
 
